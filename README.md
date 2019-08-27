@@ -23,4 +23,6 @@ Analisando, assim, o nosso caso problematizador, você deverá realizar um algor
 
 Dado esse problema, imaginando que o estudante aprendeu a utlizar struct vetores, e dividir o código em funções.
 
+Foi acrescentado também uma informação a mais, o nome da cidade, devido a struct permitir tipos diferentes de informação na mesma.
+
 A primeira versão desse código foi desenvolvido no https://www.onlinegdb.com, recomendo para rodar no windows a IDE DEV C++, com configuração do compilador para ISO C99.
